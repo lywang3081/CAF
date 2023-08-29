@@ -1,6 +1,7 @@
 # [Collaborative continual learner with Active Forgetting (CAF)]() 
 
 [![DOI](https://zenodo.org/badge/684337404.svg)](https://zenodo.org/badge/latestdoi/684337404)
+[![LICENSE](https://img.shields.io/badge/license-MIT-green?style=flat-square)](https://github.com/lywang3081/CAF/blob/main/LICENSE)
 
 ------
 This code includes the official implementation of our papers ([1] is the main subject):
