@@ -14,7 +14,7 @@ This code includes the official implementation of our papers ([1] is the main su
 
 Please refer to the following procedures to install environments, prepare datasets and run experiments.
 The instruction of reproducing the main results in each figure is described in corresponding script files.
-We present demo commands for a direct comparison of our approach and the corresponding baseline. We further record a [demo video](https://www.youtube.com/watch?v=iNJ88zkK-mM) of running these commands.
+We present demo commands for a direct comparison of our approach and the corresponding baseline. We have further recorded a [demo video](https://www.youtube.com/watch?v=iNJ88zkK-mM) of running these commands.
 
 
 ## **Visual Classification Tasks**
