@@ -1,5 +1,7 @@
 # [Collaborative continual learner with Active Forgetting (CAF)]() 
 
+[![DOI](https://zenodo.org/badge/684337404.svg)](https://zenodo.org/badge/latestdoi/684337404)
+
 ------
 This code includes the official implementation of our papers ([1] is the main subject):
 
