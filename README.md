@@ -8,9 +8,9 @@ This code includes the official implementation of our papers ([1] is the main su
 
 [1] [Incorporating Neuro-Inspired Adaptability for Continual Learning in Artificial Intelligence]()
 
-[2] [CoSCL: Cooperation of Small Continual Learners is Stronger than a Big One](https://arxiv.org/abs/2207.06543) (ECCV22)
+[2] [CoSCL: Cooperation of Small Continual Learners is Stronger than a Big One](https://arxiv.org/abs/2207.06543) (ECCV 2022)
 
-[3] [AFEC: Active Forgetting of Negative Transfer in Continual Learning](https://papers.nips.cc/paper/2021/hash/bc6dc48b743dc5d013b1abaebd2faed2-Abstract.html) (NeurIPS21)
+[3] [AFEC: Active Forgetting of Negative Transfer in Continual Learning](https://papers.nips.cc/paper/2021/hash/bc6dc48b743dc5d013b1abaebd2faed2-Abstract.html) (NeurIPS 2021)
 
 Please refer to the following procedures to install environments, prepare datasets and run experiments.
 The instruction of reproducing the main results in each figure is described in corresponding script files.
