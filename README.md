@@ -134,6 +134,13 @@ CUDA_VISIBLE_DEVICES=0 python3 main_rl.py --approach ewc_caf --reg_lambda 100000
 If you find this code helpful to your work, please cite our paper(s):
 
 ```bibtex
+@article{wang2023incorporating,
+  title={Incorporating Neuro-Inspired Adaptability for Continual Learning in Artificial Intelligence},
+  author={Wang, Liyuan and Zhang, Xingxing and Li, Qian and Zhang, Mingtian and Su, Hang and Zhu, Jun and Zhong, Yi},
+  journal={arXiv preprint arXiv:2308.14991},
+  year={2023}
+}
+
 @inproceedings{wang2022coscl,
   title={Coscl: Cooperation of small continual learners is stronger than a big one},
   author={Wang, Liyuan and Zhang, Xingxing and Li, Qian and Zhu, Jun and Zhong, Yi},
