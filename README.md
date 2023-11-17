@@ -6,7 +6,7 @@
 ------
 This code includes the official implementation of our papers ([1] is the main subject):
 
-[1] [Incorporating Neuro-Inspired Adaptability for Continual Learning in Artificial Intelligence](Natural Machine Intelligence 2023)
+[1] [Incorporating Neuro-Inspired Adaptability for Continual Learning in Artificial Intelligence](https://www.nature.com/articles/s42256-023-00747-w)(Natural Machine Intelligence 2023)
 
 [2] [CoSCL: Cooperation of Small Continual Learners is Stronger than a Big One](https://arxiv.org/abs/2207.06543) (ECCV 2022)
 
