@@ -135,10 +135,12 @@ If you find this code helpful to your work, please cite our paper(s):
 
 ```bibtex
 @article{wang2023incorporating,
-  title={Incorporating Neuro-Inspired Adaptability for Continual Learning in Artificial Intelligence},
+  title={Incorporating neuro-inspired adaptability for continual learning in artificial intelligence},
   author={Wang, Liyuan and Zhang, Xingxing and Li, Qian and Zhang, Mingtian and Su, Hang and Zhu, Jun and Zhong, Yi},
-  journal={arXiv preprint arXiv:2308.14991},
-  year={2023}
+  journal={Nature Machine Intelligence},
+  pages={1--13},
+  year={2023},
+  publisher={Nature Publishing Group UK London}
 }
 
 @inproceedings{wang2022coscl,
